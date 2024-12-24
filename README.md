@@ -6,7 +6,7 @@
 ## Что есть в проекте
 
 1. **Загрузка и предобработка данных**  
-   - - Используется датасет [из Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data) с текстом комментариев и шестью признаками токсичности. с текстом комментариев и шестью признаками токсичности.
+   -  Используется датасет [из Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data) с текстом комментариев и шестью признаками токсичности. с текстом комментариев и шестью признаками токсичности.
    - Создаётся **бинарная метка** `label`: 1, если комментарий токсичный (хотя бы одна из шести меток = 1), иначе 0.
 
 2. **Анализ данных**  
